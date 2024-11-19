@@ -1,7 +1,7 @@
 [app]
 title = 1.1
 package.name = com.1
-package.domain = org.test
+package.domain = com.pack.ttr
 source.dir = .
 source.include_exts = py
 version = 0.1
